@@ -19,7 +19,7 @@ PowerBI File : MavenMarket_Analytics.pbix
 
 Final Report Images : Screenshots of Page.zip
 
-Check below images for all the Sales, Product and Customer related reports
+Check below images for the Product, Sales and Store-Geography data
 
 - Topline Performance : High level idea of overall sales-performance related data
 
