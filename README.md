@@ -1,6 +1,6 @@
 # PowerBI_MavenMarket-SuperMart_Performance_Analysis
 
-Performance Report for AdventureWorks Company- Categorized Business Intelligence into three reports Executive Summary, Product and Customer Detail
+Performance Report for MavenMarket - A SuperMart Chain in North America
 
 Project Work Description :
 
